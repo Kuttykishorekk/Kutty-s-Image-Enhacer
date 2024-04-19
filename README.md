@@ -25,4 +25,3 @@ Usage
 Application demo video.
 Click the magic butterfly :)
 
-[![Watch the video](https://github.com/Zorrat/Image-Denoiser-Supersampling-and-Editor/blob/master/LowRes/butterfly.png)](https://www.linkedin.com/feed/update/urn:li:activity:6691597230731730944/?commentUrn=urn%3Ali%3Acomment%3A(ugcPost%3A6691429635059802113%2C6691597158988161024))
